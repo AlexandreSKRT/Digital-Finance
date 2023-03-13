@@ -5,11 +5,11 @@ This project concludes the Digital Finance course taught at Télécom Paris by P
 
 ### 1. Architecture of the project 
 - :file_folder: <b>Data</b> <i>(Data Folder)</i> 
-  - :floppy_disk: <b>FR.PA.csv</b> <i>(Financial Time Series - CAC40 stock)</i>
-  - :floppy_disk: <b>LR.PA.csv</b> <i>(Financial Time Series - CAC40 stock)</i>
-  - :floppy_disk: <b>^IRX.csv</b> <i>(Financial Time Series - 13 weaks Treasury Bound U.S.)</i>
-  - :floppy_disk: <b>^FCHI.csv</b> <i>(Financial Time Series - CAC40 index)</i>
-- :ledger: <b>Quantitative_Analysis.ipynb</b> <i>(Project)</i>
+  - :floppy_disk: FR.PA.csv <i>(Financial Time Series - CAC40 stock)</i>
+  - :floppy_disk: LR.PA.csv <i>(Financial Time Series - CAC40 stock)</i>
+  - :floppy_disk: ^IRX.csv< <i>(Financial Time Series - 13 weaks Treasury Bound U.S.)</i>
+  - :floppy_disk: ^FCHI.csv <i>(Financial Time Series - CAC40 index)</i>
+- :ledger: Quantitative_Analysis.ipynb <i>(Project)</i>
 
 ### 2. How to use this project? 
 This project covers the basics of quantitative analysis of financial time series. It can be used for educational purposes as an introduction to finance with Python. You will find concepts such as: histogram analysis, portfolio optimization, Markowitz bullet and VaR measurement.
