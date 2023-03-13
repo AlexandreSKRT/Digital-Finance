@@ -18,7 +18,7 @@ This project covers the basics of quantitative analysis of financial time series
 This project relies heavily on the [plotly](https://plotly.com) library. Unfortunately, plotly graphics do not display correctly on github. You will need to clone the repository and run it locally on your computer.
 
 ### 4. Credits and additional documentation 📃
-Here are some useful books and links to go further in understanding the concepts.
+Here are some useful books and links to better understand the concepts developed in the project.
 - 📖 : Analysis of Financial Time Series, Ruey S. Tsay
 - 📖 : Python for Finance: Mastering Data-Driven Finance, Yves Hilpisch
 - 🔗 : [Hitorical volatility risk return measures, QuantPy (website)](https://quantpy.com.au/python-for-finance/historical-volatility-risk-return-measures/)
