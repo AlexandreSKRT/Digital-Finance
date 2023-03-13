@@ -14,7 +14,10 @@ This project concludes the Digital Finance course taught at Télécom Paris by P
 ### 2. How to use this project? 
 This project covers the basics of quantitative analysis of financial time series. It can be used for educational purposes as an introduction to finance with Python. You will find concepts such as: histogram analysis, portfolio optimization, Markowitz bullet and VaR measurement.
 
-### 3. Credits and additional documentation 
+### 3. How to run this project?
+This project relies heavily on the [plotly](https://plotly.com) library. Unfortunately, plotly graphics do not display correctly on github. You will need to clone the repository and run it locally on your computer.
+
+### 4. Credits and additional documentation 
 Here are some useful books and links to go further in understanding the concepts.
 - 📖 : Analysis of Financial Time Series, Ruey S. Tsay
 - 📖 : Python for Finance: Mastering Data-Driven Finance, Yves Hilpisch
