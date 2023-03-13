@@ -3,8 +3,8 @@ This project concludes the Digital Finance course taught at Télécom Paris by P
 
 ### Architecture of the project 
 :file_folder: Data <br>
-      * :minidisc:<br>
-      * :minidisc:<br>
-      * :minidisc:<br>
-      * :minidisc:<br>
+      - :minidisc:<br>
+      - :minidisc:<br>
+      - :minidisc:<br>
+      - :minidisc:<br>
 :ledger: Quantitative_Analysis.ipynb<br>
